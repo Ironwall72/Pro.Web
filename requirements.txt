@@ -1,0 +1,6 @@
+virtualenv==20.10.0
+django==4.2.2
+asgiref==3.7.2
+sqlparse==0.4.4
+typing_extensions==4.7.0
+tzdata==2023.3
