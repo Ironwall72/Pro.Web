@@ -1,4 +1,4 @@
-from typing import Any, Dict, Tuple
+#from typing import Any, Dict, Tuple
 from django.db import models
 from django.utils import timezone
 
