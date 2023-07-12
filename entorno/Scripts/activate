@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="C:\Pro.Web\entorno"
+=======
+VIRTUAL_ENV="D:\Pro.Web\entorno"
+>>>>>>> 21b6e5ea5414b43ace3705b2c5e4ba134d5f356c
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
